@@ -40,12 +40,12 @@ El programa utiliza dos archivos principales:
    Compila el programa usando un compilador compatible con C, como GCC. Si estás en Windows, asegúrate de tener configurado `MinGW` o un entorno similar. Puedes compilarlo con el siguiente comando:
 
    ```bash
-   gcc nombre_del_archivo.c -o sistema_bancario.exe
+   gcc nombre_del_archivo.c -o Banking_sistema.exe
 
 2. Ejecución: Ejecuta el programa en una terminal de Windows utilizando el siguiente comando:
 
    ```bash
-   sistema_bancario.exe
+   Banking_sistema.exe
 
 # Estructura del Código
 
